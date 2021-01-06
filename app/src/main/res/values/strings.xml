@@ -2,4 +2,5 @@
     <string name="app_name">Retrofit Demo</string>
     <string name="simple">Simple</string>
     <string name="json_parsing">JSON Parsing</string>
+    <string name="retry">Retry</string>
 </resources>
